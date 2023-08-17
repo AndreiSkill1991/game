@@ -2,5 +2,5 @@
 From the Skillfactory Data Science course
 
 ## Проекты
-[Проект 0  - игра "Угадай число"] (https://github.com/AndreiSkill1991/game)
+[Проект 0  - игра "Угадай число"] (https://github.com/AndreiSkill1991/game/tree/main/Project%200)
 
